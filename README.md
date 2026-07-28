@@ -3,7 +3,7 @@
 > **Student by degree. Developer by passion. Builder by choice.**
 
 <p align="center">
-<img src="assets/portrait_animated.svg" width="260">
+<img src="assets/portrait_animated.svg" width="500">
 </p>
 
 <p align="center">
