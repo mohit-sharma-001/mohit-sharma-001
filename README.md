@@ -2,12 +2,13 @@
   <tr>
     <td width="55%" align="left" valign="center" style="border: none;">
       <h1>Hi, I'm Mohit Sharma 👋</h1>
-      <p><b>Student by degree. Developer by passion. Builder by choice.</b></p>
+      <p><b>Full-Stack Developer | AI Enthusiast | Open Source Contributor</b></p>
       <br>
-      <p>Passionate Computer Science student focused on building real-world software, contributing to open source, and continuously improving through hands-on projects. Always eager to learn new technologies and solve complex problems.</p>
+      <p>Motivated B.Tech CSE student passionate about building scalable software, AI applications, and interactive web experiences. Constantly learning and building production-ready projects.</p>
       <ul>
-        <li>🎓 Uttarakhand Technical University | 📚 2nd Year CSE</li>
-        <li>📍 Dehradun, Uttarakhand, India</li>
+        <li>🎓 B.Tech CSE (2025–2029) @ VMSBUTU, Dehradun</li>
+        <li>💡 Exploring AI/ML, GenAI, and 3D Web Animations</li>
+        <li>🤝 Merged Open Source PRs (e.g., pyfenn/fenn)</li>
         <li>💼 Open to Internships & Opportunities</li>
       </ul>
     </td>
@@ -25,36 +26,11 @@
 
 ---
 
-## 🚀 Roles & 🎯 Focus
-
-<table width="100%" border="0" style="border: none;">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>Who Am I</h3>
-      <ul>
-        <li>Student Developer & Open Source Enthusiast</li>
-        <li>Full Stack Web Developer</li>
-        <li>Problem Solver & Project Builder</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>What I Do</h3>
-      <ul>
-        <li>Building scalable, production-ready software</li>
-        <li>Designing RESTful APIs and clean UI/UX</li>
-        <li>Writing clean, maintainable, and efficient code</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/mohit-sharma-001">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohit-sharma-001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Mohit's GitHub Stats" height="192"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mohit-sharma-001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=2" alt="Mohit's GitHub Stats" height="192"/>
   </a>
   <a href="https://github.com/mohit-sharma-001">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-sharma-001&theme=tokyonight&hide_border=true&background=0d1117" alt="Mohit's GitHub Streak" height="192"/>
@@ -65,53 +41,88 @@
 
 ## 💻 Tech Stack & Skills
 
+### 🧠 AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-5C5CFF?style=for-the-badge" alt="Stable Diffusion">
+  <img src="https://img.shields.io/badge/Ollama_(Llama_3.2)-000000?style=for-the-badge" alt="Ollama">
+</p>
+
 ### 🌐 Languages
 <p>
-  <img src="https://img.shields.io/badge/C-24292e?style=for-the-badge&logo=c" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-24292e?style=for-the-badge&logo=cplusplus" alt="C++">
-  <img src="https://img.shields.io/badge/Java-24292e?style=for-the-badge&logo=openjdk" alt="Java">
-  <img src="https://img.shields.io/badge/Python-24292e?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-24292e?style=for-the-badge&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend & Animations
 <p>
-  <img src="https://img.shields.io/badge/HTML5-24292e?style=for-the-badge&logo=html5" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-24292e?style=for-the-badge&logo=css3" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-24292e?style=for-the-badge&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-24292e?style=for-the-badge&logo=next.js" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-24292e?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP">
 </p>
 
-### ⚙️ Backend & Databases
+### ⚙️ Backend & Tools
 <p>
-  <img src="https://img.shields.io/badge/Node.js-24292e?style=for-the-badge&logo=node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-24292e?style=for-the-badge&logo=express" alt="Express.js">
-  <img src="https://img.shields.io/badge/MySQL-24292e?style=for-the-badge&logo=mysql" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-24292e?style=for-the-badge&logo=mongodb" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
-### 🛠 Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Git-24292e?style=for-the-badge&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-24292e?style=for-the-badge&logo=docker" alt="Docker">
-  <img src="https://img.shields.io/badge/Postman-24292e?style=for-the-badge&logo=postman" alt="Postman">
-  <img src="https://img.shields.io/badge/VS%20Code-24292e?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
+---
+
+## 🚀 Featured Projects
+
+### 🧠 ImageX - Offline AI Image Generator
+> **Tech Stack:** Python, Flask, Stable Diffusion v1.5, PyTorch, Ollama (Llama 3.2), SQLite
+* Built a fully offline text-to-image generation tool supporting CUDA/MPS/CPU fallback.
+* Integrated Ollama (Llama 3.2) as a prompt enhancement engine to improve generation quality.
+* Developed a Flask REST API backend with SQLite for generation history.
+
+### 🎮 3D Interactive Portfolio
+> **Tech Stack:** Next.js 14, TypeScript, React, Tailwind CSS, GSAP, Framer Motion
+* Designed an immersive RPG-style developer portfolio with parallax layers and cinematic transitions.
+* Built a custom game loop with collision detection, checkpoint system, and keyboard controls.
+* Achieved smooth, high-performance animations using GSAP and Framer Motion.
+
+<br>
+
+<p align="center">
+  <b>🌟 <a href="https://github.com/mohit-sharma-001?tab=repositories">Check out my repositories for more awesome projects!</a> 🌟</b>
 </p>
+
+---
+
+## 🏆 Certifications & Open Source
+
+* **Open Source Contributor:** Merged PR #161 in `pyfenn/fenn` (Improved mobile responsiveness & dashboard UI).
+* **Forage Job Simulations:**
+  * Deloitte Technology Job Simulation
+  * JPMorgan Chase Software Engineering Job Simulation
+  * Skyscanner Front-End Software Engineering Job Simulation
+  * Tata GenAI Powered Data Analytics & Data Visualisation
 
 ---
 
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:mohitsharma084400@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:mohitsharma08440@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohit-sharma-7487b83ab">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/mohit-sharma-001">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
   </a>
 </p>
 
