@@ -1,7 +1,6 @@
 import os
 
 def generate_terminal_svg(output_path):
-    # Yeh SVG code CSS keyframes use karta hai typing animation ke liye
     svg_content = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 300" width="100%" height="100%">
   <style>
     .terminal-bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; }
@@ -14,7 +13,6 @@ def generate_terminal_svg(output_path):
     .text-prompt { fill: #7ee787; font-weight: bold; }
     .text-comment { fill: #8b949e; font-style: italic; }
     
-    /* Animation classes */
     .line-1 { opacity: 0; animation: showLine 0.1s forwards 0.5s; }
     .line-2 { opacity: 0; animation: showLine 0.1s forwards 1.2s; }
     .line-3 { opacity: 0; animation: showLine 0.1s forwards 1.5s; }
@@ -27,40 +25,35 @@ def generate_terminal_svg(output_path):
     @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
   </style>
 
-  <!-- Terminal Window Background -->
   <rect width="100%" height="100%" rx="8" class="terminal-bg"/>
   <rect width="100%" height="35" rx="8" class="terminal-header"/>
   
-  <!-- Window Controls -->
   <circle cx="25" cy="17" r="6" class="dot-red"/>
   <circle cx="45" cy="17" r="6" class="dot-yellow"/>
   <circle cx="65" cy="17" r="6" class="dot-green"/>
-  <text x="410" y="23" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e" text-anchor="middle">mohit-sharma — bash — 80x24</text>
+  <text x="410" y="23" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e" text-anchor="middle">mohit-sharma-001 bash</text>
 
-  <!-- Terminal Content Group -->
   <g transform="translate(25, 75)">
-    <!-- Command 1 -->
     <g class="line-1">
-      <text x="0" y="0" class="text-main"><tspan class="text-prompt">mohit@ubuntu:~$</tspan> ./fetch_profile.sh</text>
+      <text x="0" y="0" class="text-main"><tspan class="text-prompt">mohit-sharma-001:~$</tspan> ./fetch_profile.sh</text>
     </g>
     
-    <!-- Output -->
+    <!-- GitHub SVG fix: Changed > to &gt; -->
     <g class="line-2">
-      <text x="0" y="35" class="text-main">> IDENTITY     <tspan class="text-cmd">Mohit Sharma</tspan></text>
+      <text x="0" y="35" class="text-main">&gt; IDENTITY     <tspan class="text-cmd">Mohit Sharma</tspan></text>
     </g>
     <g class="line-3">
-      <text x="0" y="65" class="text-main">> STATUS       <tspan class="text-cmd">Building Real-world Software</tspan></text>
+      <text x="0" y="65" class="text-main">&gt; STATUS       <tspan class="text-cmd">Building Real-world Software</tspan></text>
     </g>
     <g class="line-4">
-      <text x="0" y="95" class="text-main">> EDUCATION    <tspan class="text-cmd">B.Tech CSE @ UTU, Dehradun</tspan></text>
+      <text x="0" y="95" class="text-main">&gt; EDUCATION    <tspan class="text-cmd">B.Tech CSE @ UTU, Dehradun</tspan></text>
     </g>
     <g class="line-5">
-      <text x="0" y="125" class="text-main">> CURRENT_GOAL <tspan class="text-cmd">Open Source Contributions & Full Stack</tspan></text>
+      <text x="0" y="125" class="text-main">&gt; CURRENT_GOAL <tspan class="text-cmd">Open Source Contributions &amp; Full Stack</tspan></text>
     </g>
 
-    <!-- Final Prompt with Blinking Cursor -->
     <g class="line-6">
-      <text x="0" y="170" class="text-main"><tspan class="text-prompt">mohit@ubuntu:~$</tspan> <tspan class="cursor">_</tspan></text>
+      <text x="0" y="170" class="text-main"><tspan class="text-prompt">mohit-sharma-001:~$</tspan> <tspan class="cursor">_</tspan></text>
     </g>
   </g>
 </svg>"""
