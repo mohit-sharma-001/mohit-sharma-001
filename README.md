@@ -32,9 +32,6 @@
   <a href="https://github.com/mohit-sharma-001">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-sharma-001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Mohit's Top Languages" height="192"/>
   </a>
-  <a href="https://github.com/mohit-sharma-001">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-sharma-001&theme=tokyonight&hide_border=true&background=0d1117" alt="Mohit's GitHub Streak" height="192"/>
-  </a>
 </p>
 
 ---
